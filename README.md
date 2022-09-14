@@ -37,7 +37,7 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Contact
-Created by [@ultimatecrack] - feel free to contact me!
+Created by @ultimatecrack - feel free to contact me!
 
 
 <!-- Optional -->
